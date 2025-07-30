@@ -35,7 +35,7 @@ There some projects which really get you excited, this is one such project which
 - The ATmega8 processes sensor data and assigns longer green signal duration to more congested lanes.
 - LEDs simulate traffic signals.
 - Power is supplied via a 12V battery or adapter.
--  [Check out the schematic at](schematics/Schematic diagram.png)
+- ![Check out the schematic at](schematics/Schematic diagram.png)
 
 
 ---
